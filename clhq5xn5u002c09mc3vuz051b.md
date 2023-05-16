@@ -2,7 +2,7 @@
 title: "গিটহাব কি? পরিচিতি এবং ধারণা"
 datePublished: Tue May 16 2023 11:00:34 GMT+0000 (Coordinated Universal Time)
 cuid: clhq5xn5u002c09mc3vuz051b
-slug: 4kax4ka4kaf4ka54ka4kasiocmlecmvz8g4kaq4kaw4ka4kaa4ka4kak4kaiocmjcmrocmgidgpqfgpr7gprdgpqpgpr4
+slug: github-bangla-intro
 cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/HLQDfaJUTVI/upload/1f6d5996d3f449de861a0163484b5dc9.jpeg
 tags: github, basics, bangla
 
